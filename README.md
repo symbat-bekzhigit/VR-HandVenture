@@ -32,7 +32,7 @@ Arduino gets the analog input from the flex sensors and sends them to p5.js, whi
 
 **Demo:**
 
-INSERT link to DEMO VIDEO
+Here's the link to the demo: [https://youtu.be/LoHQYJpVKYc](https://www.youtube.com/watch?v=dzQ5gxI77Xc)
 
 
 **Aspects that I’m proud of:**
