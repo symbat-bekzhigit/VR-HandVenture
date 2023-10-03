@@ -14,7 +14,8 @@ After the welcome page and following the instructions page, the user will be pro
 
 I attached flex sensors to the glove and used analog input received from them to detect the user’s hand movement. I attached two flex sensors to both sides the glove which are used to sense when the user bends his/her hand right or left and move the panorama image accordingly. I also attached two sensors to the index finger and to the thumb which are used to zoom in and zoom out inside the image.  I’ve used pretty useful feedback from the user-testing so I set the limit to how much the user an zoom in and out, as this has been creating problems with the experience because the sensors are too sensitive for detecting when the user continuously bended his/her hand.
 
-INSERT IMG1
+***
+![](bin/img1.jpeg)
 
 
 **Arduino:**
@@ -31,7 +32,7 @@ Arduino gets the analog input from the flex sensors and sends them to p5.js, whi
 
 **Demo:**
 
-INSERT link to DEMO VIDEO
+Here's the link to the demo: [https://youtu.be/LoHQYJpVKYc](https://www.youtube.com/watch?v=dzQ5gxI77Xc)
 
 
 **Aspects that I’m proud of:**
